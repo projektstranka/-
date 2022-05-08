@@ -134,6 +134,15 @@ p{
     margin-top: 20px;
 }
 
+div.meno a{
+    font-size: larger;
+    position: absolute;
+    color: #000;
+    top: 700px;
+    margin-bottom: 100%;
+    left: 1170px;
+}
+
 div.footer a{
     font-size: larger;
     position: absolute;
